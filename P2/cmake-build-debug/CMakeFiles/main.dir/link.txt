@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/product_list.c.o CMakeFiles/main.dir/bid_stack.c.o -o ../bin/main 

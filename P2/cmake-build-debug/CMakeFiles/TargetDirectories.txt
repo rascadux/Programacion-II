@@ -1,0 +1,5 @@
+/home/pollete/Asignaturas/pro/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pollete/Asignaturas/pro/P2/cmake-build-debug/CMakeFiles/test_product_list.dir
+/home/pollete/Asignaturas/pro/P2/cmake-build-debug/CMakeFiles/main.dir
+/home/pollete/Asignaturas/pro/P2/cmake-build-debug/CMakeFiles/test_bid_stack.dir
+/home/pollete/Asignaturas/pro/P2/cmake-build-debug/CMakeFiles/edit_cache.dir

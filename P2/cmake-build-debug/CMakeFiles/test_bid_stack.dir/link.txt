@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/test_bid_stack.dir/test_bid_stack.c.o CMakeFiles/test_bid_stack.dir/bid_stack.c.o -o ../bin/test_bid_stack 

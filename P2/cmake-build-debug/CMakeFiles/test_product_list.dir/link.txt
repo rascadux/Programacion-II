@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/test_product_list.dir/test_product_list.c.o CMakeFiles/test_product_list.dir/product_list.c.o -o ../bin/test_product_list 
